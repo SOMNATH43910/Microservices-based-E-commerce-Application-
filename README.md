@@ -13,6 +13,8 @@
 
 ---
 
+<img src="'/Users/somnathrana/Desktop/DOC/DOC/IDE/java E-commerce Project /image/Screenshot 2026-02-27 at 5.20.43 PM.png'"/>
+
 # 🚀 Project Overview
 
 This project is a **Production-Style E-Commerce Backend System**  
